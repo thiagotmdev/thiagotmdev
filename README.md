@@ -1,4 +1,6 @@
-## Eae eu sou Thiago Mendes, Dev Front End!
+## Eae eu sou Thiago Mendes, Dev Full Stack!
+Sou formado em analise e desenvolvimento de sitemas, amo programar.
+
 <div align="center">
   <a href="https://github.com/thiagotmdev">
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagotmdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
