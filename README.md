@@ -1,5 +1,5 @@
 ## Eae eu sou Thiago Mendes, Dev Full Stack!
-Sou formado em analise e desenvolvimento de sitemas, amo programar.
+Sou formado em analise e desenvolvimento de sitemas, amo programar, sou fundador da empresa Archmake Studio, trabalho com 3d para arquitetura e programação web.
 
 <div align="center">
   <a href="https://github.com/thiagotmdev">
