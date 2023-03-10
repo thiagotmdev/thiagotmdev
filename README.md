@@ -1,4 +1,4 @@
-## Eae eu sou Thiago Mendes, Dev Full Stack!
+## Eae eu sou Thiago Mendes!
 Sou formado em analise e desenvolvimento de sitemas, amo programar, sou fundador da empresa Archmake Studio, trabalho com 3d para arquitetura e programação web.
 
 <div align="center">
